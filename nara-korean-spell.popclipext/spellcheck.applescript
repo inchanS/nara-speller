@@ -1,8 +1,6 @@
 on run
     set selectedText to "{popclip text}"
 
-    display dialog "PopClip에서 전달된 텍스트는: " & selectedText
-
     tell application "Safari"
         activate
         open location "https://nara-speller.co.kr/speller"
