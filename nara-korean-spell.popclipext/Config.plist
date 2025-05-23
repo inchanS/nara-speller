@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>extension-name</key>
+    <string>나라 맞춤법</string>
+    <key>identifier</key>
+    <string>dev.inchan.popclip.extension.nara-speller</string>
+    <key>description</key>
+    <string>선택한 텍스트를 나라 맞춤법 검사 웹사이트(구. 부산대 한국어 맞춤법 사이트)에서 자동으로 검사합니다</string>
+    <key>author</key>
+    <string>inchan</string>
+    <key>applies-to</key>
+    <string>text</string>
+    <key>Actions</key>
+    <array>
+        <dict>
+            <key>Title</key>
+            <string>나라 맞춤법</string>
+            <key>AppleScript File</key>
+            <string>spellcheck.applescript</string>
+            <key>icon</key>
+            <string>맞춤법</string>
+            <key>Regular Expression</key>
+            <string>(?s)^.{1,1000}$</string>
+        </dict>
+    </array>
+</dict>
+</plist>
