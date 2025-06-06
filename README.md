@@ -1,4 +1,7 @@
 # PopClip Extension - 바른 한글 맞춤법 검사기 웹사이트
+![GitHub stars](https://img.shields.io/github/stars/inchans/nara-speller-popclip?style=flat&logo=apachespark)
+![GitHub all releases](https://img.shields.io/github/downloads/inchanS/nara-speller-popclip/total?logo=github) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/inchanS/nara-speller-popclip?logo=rocket)  ![GitHub](https://img.shields.io/github/license/inchanS/nara-speller-popclip)
+
 
 기존 Popclip Extension : [miname/Korean-Spelling-Checker-Workflow: macOS X Automator의 workflow 형태로 작동하는 한국어 맞춤법 검사기.](https://github.com/miname/Korean-Spelling-Checker-Workflow?tab=readme-ov-file)  
 
